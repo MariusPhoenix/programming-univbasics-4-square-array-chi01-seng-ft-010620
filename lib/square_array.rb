@@ -1,5 +1,8 @@
-def square_array(array)
-  while array(numbers)
-  numbers = [1, 2, 3]
-  
+
+ def square_array
+numbers = [1,2,3]
+
+square_array(numbers)
 end
+ 
+  
