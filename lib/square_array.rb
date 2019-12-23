@@ -4,7 +4,7 @@
   numbers = [1,2,3]
   while array(conter)
   square_array(numbers)
-  counter
+  counter += 1
 end
  
   
