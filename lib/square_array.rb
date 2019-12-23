@@ -4,7 +4,7 @@
   array = [1,2,3]
   
   while array(counter)
-  square_array(array)
+  square_array(array).inject
   counter += 1
 end
 
